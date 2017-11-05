@@ -1,3 +1,0 @@
-# Paper-thoughts
-
-# Gimme many
