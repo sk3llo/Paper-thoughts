@@ -1,2 +1,2 @@
 var int = 50
-var truth = "Sasai"
+var truth = "Sasai pidaras))0))"
